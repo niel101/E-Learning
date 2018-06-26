@@ -1,4 +1,5 @@
-# E-Learning
+# E-Learning System using PHP Mysql
+# San jose Del Monte National High School
 /*
 	Authour: Ronnel Salazar Borjal
 	Authour email: nielborjal@gmail.com
